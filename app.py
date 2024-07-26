@@ -77,4 +77,4 @@ if st.sidebar.button("Predict"):
     car_price = model.predict(input_data_model)
 
     # Display prediction
-    st.markdown(f'<div style="font-size:24px; text-align:center; margin-top:20px;">Estimated Car Price: <span style="color:#E74C3C;">{car_price[0]:,.2f}</span>$ 💵</div>', unsafe_allow_html=True)
+    st.markdown(f'<div style="font-size:24px; text-align:center; margin-top:20px;">Estimated Car Price: <span style="color:#E74C3C;">{car_price[0]:,.2f}</span>₽ </div>', unsafe_allow_html=True)
