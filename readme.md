@@ -1,6 +1,6 @@
 # Car price forecast 🚗
 
-[![Watch the video]()](https://)
+[![Watch the video](https://github.com/touge13/CarPricePrediction/blob/main/videoReview.mp4)](https://github.com/touge13/CarPricePrediction/blob/main/videoReview.mp4)
 
 
 This project focuses on predicting car prices using a machine learning model. The data set contains various characteristics associated with cars such as make, mileage, engine size, etc. The purpose of the model is to determine the estimated selling price based on these characteristics.
